@@ -511,11 +511,193 @@ export const restaurantConfig: SiteConfig = {
 };
 
 // ============================================================================
+// HOLLYWOOD NAIL SPA - GAITHERSBURG, MD
+// ============================================================================
+
+export const hollywoodNailSpaConfig: SiteConfig = {
+  businessName: "Hollywood Nail Spa",
+  tagline: "Luxury nail care in the heart of Gaithersburg",
+  address: {
+    street: "123 Main Street", // UPDATE WITH ACTUAL ADDRESS
+    city: "Gaithersburg",
+    state: "MD",
+    zip: "20878", // UPDATE WITH ACTUAL ZIP CODE
+  },
+  phone: "+1-301-XXX-XXXX", // UPDATE WITH ACTUAL PHONE
+  email: "info@hollywoodnailspa.com", // UPDATE WITH ACTUAL EMAIL
+  hours: {
+    Monday: "9:00 AM - 7:00 PM",
+    Tuesday: "9:00 AM - 7:00 PM",
+    Wednesday: "9:00 AM - 7:00 PM",
+    Thursday: "9:00 AM - 8:00 PM",
+    Friday: "9:00 AM - 8:00 PM",
+    Saturday: "9:00 AM - 7:00 PM",
+    Sunday: "11:00 AM - 6:00 PM",
+  },
+  services: [
+    {
+      name: "Classic Manicure",
+      description: "Traditional nail shaping, cuticle care, and polish application",
+      priceRange: "$25 - $35",
+      category: "Manicures",
+      addOns: [
+        { name: "Gel Polish", price: "+$10" },
+        { name: "Nail Art", price: "+$5" },
+        { name: "French Tips", price: "+$8" },
+      ],
+    },
+    {
+      name: "Gel Manicure",
+      description: "Long-lasting gel polish with UV curing for up to 3 weeks",
+      priceRange: "$40 - $50",
+      category: "Manicures",
+      addOns: [
+        { name: "Nail Art", price: "+$10" },
+        { name: "French Tips", price: "+$8" },
+        { name: "Ombre Design", price: "+$15" },
+      ],
+    },
+    {
+      name: "Classic Pedicure",
+      description: "Relaxing foot soak, exfoliation, nail shaping, and polish",
+      priceRange: "$35 - $45",
+      category: "Pedicures",
+      addOns: [
+        { name: "Gel Polish", price: "+$10" },
+        { name: "Paraffin Treatment", price: "+$15" },
+        { name: "Callus Removal", price: "+$10" },
+      ],
+    },
+    {
+      name: "Spa Pedicure",
+      description: "Luxurious pedicure with hot stone massage, mask, and paraffin treatment",
+      priceRange: "$55 - $70",
+      category: "Pedicures",
+      addOns: [
+        { name: "Gel Polish", price: "+$10" },
+        { name: "Nail Art", price: "+$10" },
+      ],
+    },
+    {
+      name: "Acrylic Full Set",
+      description: "Full set of acrylic nails with your choice of length and shape",
+      priceRange: "$50 - $70",
+      category: "Extensions",
+      addOns: [
+        { name: "Gel Polish", price: "+$10" },
+        { name: "Nail Art", price: "+$15" },
+        { name: "French Tips", price: "+$10" },
+      ],
+    },
+    {
+      name: "Acrylic Fill",
+      description: "Maintenance fill for existing acrylic nails",
+      priceRange: "$35 - $45",
+      category: "Extensions",
+      addOns: [
+        { name: "Gel Polish", price: "+$10" },
+        { name: "Nail Art", price: "+$15" },
+      ],
+    },
+    {
+      name: "Dip Powder Manicure",
+      description: "Durable powder dip system for long-lasting color",
+      priceRange: "$45 - $55",
+      category: "Specialty Services",
+      addOns: [
+        { name: "French Tips", price: "+$8" },
+        { name: "Nail Art", price: "+$10" },
+      ],
+    },
+    {
+      name: "Nail Repair",
+      description: "Fix broken or damaged nails",
+      priceRange: "$10 - $20",
+      category: "Specialty Services",
+    },
+  ],
+  galleryImages: [
+    "/images/nail-1.jpg",
+    "/images/nail-2.jpg",
+    "/images/nail-3.jpg",
+    "/images/nail-4.jpg",
+    "/images/nail-5.jpg",
+    "/images/nail-6.jpg",
+  ],
+  reviews: [
+    {
+      name: "Sarah M.",
+      rating: 5,
+      text: "Best nail salon in Gaithersburg! The staff is professional and my gel manicure lasted over 3 weeks. Highly recommend!",
+    },
+    {
+      name: "Jennifer L.",
+      rating: 5,
+      text: "I've been coming to Hollywood Nail Spa for months. The spa pedicure is amazing and the atmosphere is so relaxing. Love this place!",
+    },
+    {
+      name: "Maria K.",
+      rating: 5,
+      text: "Excellent service and beautiful work! The nail art designs are stunning. The staff always makes me feel welcome.",
+    },
+  ],
+  overallRating: 4.9,
+  promotion: {
+    active: true,
+    title: "New Client Special",
+    description: "Get 20% off your first visit! Experience luxury nail care at Hollywood Nail Spa.",
+    ctaText: "Book Now",
+    ctaLink: "#location",
+  },
+  faq: [
+    {
+      question: "Do you accept walk-ins?",
+      answer: "Yes! We welcome walk-ins, though we recommend making an appointment to ensure availability, especially on weekends.",
+    },
+    {
+      question: "How long does a gel manicure last?",
+      answer: "Our gel manicures typically last 2-3 weeks with proper care. We use high-quality products to ensure long-lasting results.",
+    },
+    {
+      question: "What's the difference between a classic and spa pedicure?",
+      answer: "A classic pedicure includes basic nail care and polish. Our spa pedicure adds hot stone massage, paraffin treatment, and a hydrating mask for a more luxurious experience.",
+    },
+    {
+      question: "Do you offer gift certificates?",
+      answer: "Yes! Gift certificates are available for any service or dollar amount. Perfect for birthdays, holidays, or just because!",
+    },
+    {
+      question: "What safety measures do you have in place?",
+      answer: "We maintain the highest standards of cleanliness and sanitation. All tools are sterilized, and we use fresh liners for each pedicure.",
+    },
+    {
+      question: "Can I bring my own polish?",
+      answer: "Absolutely! You're welcome to bring your own polish if you have a specific color in mind.",
+    },
+  ],
+  social: {
+    instagram: "https://instagram.com/hollywoodnailspa", // UPDATE WITH ACTUAL SOCIAL LINKS
+    facebook: "https://facebook.com/hollywoodnailspa",
+    yelp: "https://yelp.com/biz/hollywood-nail-spa-gaithersburg",
+  },
+  theme: {
+    primary: "rose",
+    accent: "pink",
+  },
+  seo: {
+    title: "Hollywood Nail Spa | Premium Nail Care in Gaithersburg, MD",
+    description: "Experience luxury nail care at Hollywood Nail Spa in Gaithersburg, MD. Professional manicures, pedicures, gel nails, and nail art. Book your appointment today!",
+    keywords: ["nail salon", "manicure", "pedicure", "nail art", "Gaithersburg", "Maryland", "gel nails", "acrylic nails", "nail spa"],
+  },
+  badges: ["Walk-ins Welcome", "New Client Special", "Premium Quality"],
+};
+
+// ============================================================================
 // ACTIVE CONFIG (change this to switch presets or use your own)
 // ============================================================================
 
-// EDIT THIS: Change to nailSalonConfig, hairSalonConfig, restaurantConfig, or create your own
-export const siteConfig: SiteConfig = nailSalonConfig;
+// EDIT THIS: Change to nailSalonConfig, hairSalonConfig, restaurantConfig, hollywoodNailSpaConfig, or create your own
+export const siteConfig: SiteConfig = hollywoodNailSpaConfig;
 
 // ============================================================================
 // HELPER FUNCTIONS

@@ -19,7 +19,7 @@ export default function Home() {
       <main className="min-h-screen">
         <Promotions />
         <Nav />
-        <DemoSwitcher />
+        {/* DemoSwitcher hidden for client-specific branch */}
         <Hero />
         <Services />
         <Gallery />
