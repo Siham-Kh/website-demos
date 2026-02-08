@@ -617,12 +617,14 @@ export const hollywoodNailSpaConfig: SiteConfig = {
     },
   ],
   galleryImages: [
-    "/images/nail-1.jpg",
-    "/images/nail-2.jpg",
-    "/images/nail-3.jpg",
-    "/images/nail-4.jpg",
-    "/images/nail-5.jpg",
-    "/images/nail-6.jpg",
+    "/images/hollywood-nail-spa/hollywood-1.jpg",
+    "/images/hollywood-nail-spa/hollywood-2.jpg",
+    "/images/hollywood-nail-spa/hollywood-3.jpg",
+    "/images/hollywood-nail-spa/hollywood-4.jpg",
+    "/images/hollywood-nail-spa/hollywood-5.jpg",
+    "/images/hollywood-nail-spa/hollywood-6.jpg",
+    "/images/hollywood-nail-spa/hollywood-7.jpg",
+    "/images/hollywood-nail-spa/hollywood-8.jpg",
   ],
   reviews: [
     {
