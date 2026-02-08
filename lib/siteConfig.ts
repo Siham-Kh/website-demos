@@ -650,6 +650,31 @@ export const hollywoodNailSpaConfig: SiteConfig = {
       rating: 5,
       text: "Outstanding service! My dip powder manicure looks incredible and has lasted over 3 weeks without chipping. The technicians are experienced and really know what they're doing. Love this place!",
     },
+    {
+      name: "Emily D.",
+      rating: 5,
+      text: "Perfect place for nail care! The French manicure I got looks absolutely stunning. The staff is patient and really listens to what you want. The salon is spotless and well-maintained. Highly recommend!",
+    },
+    {
+      name: "Rachel B.",
+      rating: 5,
+      text: "Amazing service and beautiful results! I got a full set of acrylics with nail art and they look incredible. The technicians are true artists. The prices are fair and the quality is exceptional. Will be back soon!",
+    },
+    {
+      name: "Nicole H.",
+      rating: 5,
+      text: "Love this salon! The spa pedicure with paraffin treatment was so relaxing. My feet feel amazing and my nails look perfect. The staff is professional and the atmosphere is calming. Best pedicure I've ever had!",
+    },
+    {
+      name: "Jennifer L.",
+      rating: 5,
+      text: "Excellent nail salon! The gel polish application is flawless and my manicure has lasted over 3 weeks. The staff is friendly and the salon is always clean. Great value for the quality of service. Highly recommend!",
+    },
+    {
+      name: "Melissa C.",
+      rating: 5,
+      text: "Outstanding experience! The nail technicians are incredibly talented and pay attention to every detail. My ombre design turned out better than I imagined. The salon has a great vibe and the service is top-notch. Can't wait to come back!",
+    },
   ],
   overallRating: 5.0,
   promotion: {
