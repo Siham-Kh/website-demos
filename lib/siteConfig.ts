@@ -726,8 +726,8 @@ export const hollywoodNailSpaConfig: SiteConfig = {
     },
   ],
   social: {
-    instagram: "https://instagram.com/hollywoodnailspa", // UPDATE WITH ACTUAL SOCIAL LINKS
-    facebook: "https://facebook.com/hollywoodnailspa",
+    instagram: "https://www.instagram.com/hollywoodgaithersburg/",
+    facebook: "https://www.facebook.com/hollywoodQO/",
     yelp: "https://yelp.com/biz/hollywood-nail-spa-gaithersburg",
   },
   theme: {
