@@ -1,0 +1,31 @@
+{
+  "reviews": [
+    {
+      "name": "Customer Name 1",
+      "rating": 5,
+      "text": "Review text here..."
+    },
+    {
+      "name": "Customer Name 2",
+      "rating": 5,
+      "text": "Review text here..."
+    },
+    {
+      "name": "Customer Name 3",
+      "rating": 5,
+      "text": "Review text here..."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://example.com/image1.jpg",
+      "description": "Image description"
+    },
+    {
+      "url": "https://example.com/image2.jpg",
+      "description": "Image description"
+    }
+  ],
+  "notes": "Fill in the reviews and image URLs above, then I'll update the config file automatically"
+}
+
