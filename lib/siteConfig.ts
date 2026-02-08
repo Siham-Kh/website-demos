@@ -625,6 +625,7 @@ export const hollywoodNailSpaConfig: SiteConfig = {
     "/images/hollywood-nail-spa/hollywood-6.jpg",
     "/images/hollywood-nail-spa/hollywood-7.jpg",
     "/images/hollywood-nail-spa/hollywood-8.jpg",
+    "/images/hollywood-nail-spa/hollywood-9.jpg",
   ],
   reviews: [
     {
