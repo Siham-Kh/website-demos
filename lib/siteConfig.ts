@@ -737,9 +737,9 @@ export const hollywoodNailSpaConfig: SiteConfig = {
   seo: {
     title: "Hollywood Nail Spa | Premium Nail Care in Gaithersburg, MD",
     description: "Experience luxury nail care at Hollywood Nail Spa in Gaithersburg, MD. Professional manicures, pedicures, gel nails, and nail art. Book your appointment today!",
-    keywords: ["nail salon", "manicure", "pedicure", "nail art", "Gaithersburg", "Maryland", "gel nails", "acrylic nails", "nail spa"],
+    keywords: ["nail salon", "manicure", "pedicure", "nail art", "Gaithersburg", "Maryland", "gel nails", "acrylic nails", "nail spa", "Quince Orchard Plaza"],
   },
-  badges: ["Walk-ins Welcome", "New Client Special", "Premium Quality"],
+  badges: ["Walk-ins Welcome", "Accepts Credit Cards", "Premium Quality"],
 };
 
 // ============================================================================
