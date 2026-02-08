@@ -626,19 +626,29 @@ export const hollywoodNailSpaConfig: SiteConfig = {
   ],
   reviews: [
     {
-      name: "Sarah M.",
+      name: "Jessica T.",
       rating: 5,
-      text: "Best nail salon in Gaithersburg! The staff is professional and my gel manicure lasted over 3 weeks. Highly recommend!",
+      text: "Absolutely love Hollywood Nail Spa! The technicians are so skilled and my gel manicure looks perfect every time. The salon is always clean and the staff is friendly. Best nail salon in Gaithersburg!",
     },
     {
-      name: "Jennifer L.",
+      name: "Amanda R.",
       rating: 5,
-      text: "I've been coming to Hollywood Nail Spa for months. The spa pedicure is amazing and the atmosphere is so relaxing. Love this place!",
+      text: "I've been a regular customer for over a year now. The spa pedicure is incredibly relaxing and my nails always look amazing. The attention to detail is outstanding. Highly recommend!",
     },
     {
-      name: "Maria K.",
+      name: "Michelle S.",
       rating: 5,
-      text: "Excellent service and beautiful work! The nail art designs are stunning. The staff always makes me feel welcome.",
+      text: "Fantastic experience! The nail art work is beautiful and the staff takes their time to make sure everything is perfect. The prices are reasonable and the quality is top-notch. Will definitely be back!",
+    },
+    {
+      name: "Sarah K.",
+      rating: 5,
+      text: "Best nail salon I've been to! The acrylic work is flawless and lasts forever. The salon has a great atmosphere and the staff is professional and welcoming. Can't say enough good things!",
+    },
+    {
+      name: "Lisa M.",
+      rating: 5,
+      text: "Outstanding service! My dip powder manicure looks incredible and has lasted over 3 weeks without chipping. The technicians are experienced and really know what they're doing. Love this place!",
     },
   ],
   overallRating: 4.9,
