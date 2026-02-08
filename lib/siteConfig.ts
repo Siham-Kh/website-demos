@@ -675,6 +675,16 @@ export const hollywoodNailSpaConfig: SiteConfig = {
       rating: 5,
       text: "Outstanding experience! The nail technicians are incredibly talented and pay attention to every detail. My ombre design turned out better than I imagined. The salon has a great vibe and the service is top-notch. Can't wait to come back!",
     },
+    {
+      name: "Ashley P.",
+      rating: 5,
+      text: "Incredible nail salon! I got a full set with gel polish and the results are stunning. The technicians are professional, the salon is beautiful, and the service is exceptional. My nails look perfect and the quality is outstanding. Highly recommend to everyone!",
+    },
+    {
+      name: "Stephanie W.",
+      rating: 5,
+      text: "Best nail experience ever! The staff is so friendly and welcoming. I got a spa pedicure and gel manicure combo, and both turned out amazing. The attention to detail is impressive and the salon atmosphere is relaxing. Will definitely be a regular customer!",
+    },
   ],
   overallRating: 5.0,
   promotion: {
