@@ -651,7 +651,7 @@ export const hollywoodNailSpaConfig: SiteConfig = {
       text: "Outstanding service! My dip powder manicure looks incredible and has lasted over 3 weeks without chipping. The technicians are experienced and really know what they're doing. Love this place!",
     },
   ],
-  overallRating: 4.9,
+  overallRating: 5.0,
   promotion: {
     active: true,
     title: "New Client Special",
