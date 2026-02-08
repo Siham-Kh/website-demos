@@ -516,23 +516,23 @@ export const restaurantConfig: SiteConfig = {
 
 export const hollywoodNailSpaConfig: SiteConfig = {
   businessName: "Hollywood Nail Spa",
-  tagline: "Luxury nail care in the heart of Gaithersburg",
+  tagline: "Nail salon offering manicures and pedicures, including massages",
   address: {
-    street: "123 Main Street", // UPDATE WITH ACTUAL ADDRESS
+    street: "654 Quince Orchard Rd",
     city: "Gaithersburg",
     state: "MD",
-    zip: "20878", // UPDATE WITH ACTUAL ZIP CODE
+    zip: "20878",
   },
-  phone: "+1-301-XXX-XXXX", // UPDATE WITH ACTUAL PHONE
-  email: "info@hollywoodnailspa.com", // UPDATE WITH ACTUAL EMAIL
+  phone: "(240) 813-4477",
+  email: "info@hollywoodnailspa.com",
   hours: {
-    Monday: "9:00 AM - 7:00 PM",
-    Tuesday: "9:00 AM - 7:00 PM",
-    Wednesday: "9:00 AM - 7:00 PM",
-    Thursday: "9:00 AM - 8:00 PM",
-    Friday: "9:00 AM - 8:00 PM",
+    Sunday: "10:00 AM - 5:00 PM",
+    Monday: "10:00 AM - 7:30 PM",
+    Tuesday: "10:00 AM - 7:30 PM",
+    Wednesday: "10:00 AM - 7:30 PM",
+    Thursday: "10:00 AM - 7:30 PM",
+    Friday: "10:00 AM - 7:30 PM",
     Saturday: "9:00 AM - 7:00 PM",
-    Sunday: "11:00 AM - 6:00 PM",
   },
   services: [
     {
